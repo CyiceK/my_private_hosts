@@ -1,4 +1,4 @@
-127.0.0.1 tracert.alipay.com
-127.0.0.1 tracking.miui.com
-127.0.0.1 cdn-mum.alibabachengdun.com
-127.0.0.1 loggw.alipaydns.com
+0.0.0.0 tracert.alipay.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 cdn-mum.alibabachengdun.com
+0.0.0.0 loggw.alipaydns.com
